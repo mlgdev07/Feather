@@ -21,7 +21,7 @@
 Feather aims to provide a consistent, native writing experience across every operating system:
 
 - [x] Initial Core Engine (in active development)
-- [ ] 🪟 **Windows** *(Planned)*
+- [ ] 🪟 **Windows** Ready to use!
 - [ ] 🍏 **macOS** *(Planned)*
 - [ ] 🐧 **Linux** *(Planned)*
 - [ ] 🌐 **Web / Mobile** *(Future milestone)*
