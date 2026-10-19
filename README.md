@@ -21,7 +21,7 @@
 Feather aims to provide a consistent, native writing experience across every operating system:
 
 - [x] Initial Core Engine (in active development)
-- [ ] 🪟 **Windows** Ready to use!
+- [x] 🪟 **Windows** Ready to use!
 - [ ] 🍏 **macOS** *(Planned)*
 - [ ] 🐧 **Linux** *(Planned)*
 - [ ] 🌐 **Web / Mobile** *(Future milestone)*
@@ -39,21 +39,4 @@ Feather aims to provide a consistent, native writing experience across every ope
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-Ensure you have the required toolchain installed on your machine (e.g., Git, Node.js, Rust/Cargo, etc.).
-
-### Installation & Development
-
-```bash
-# Clone the repository
-git clone [https://github.com/your-username/feather.git](https://github.com/your-username/feather.git)
-
-# Navigate to the project directory
-cd feather
-
-# Install dependencies
-npm install # or cargo check, etc.
-
-# Run the app in development mode
-npm run dev # or cargo run
+Is Ready to download and use in RELEASES
